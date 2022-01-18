@@ -1,0 +1,58 @@
+<rss version="2.0">
+	<channel>
+		<!--Prólogo-->
+		<title>Instalación de diferentes Software</title>
+		<link>https://github.com/jrommed560/Paginawebjrommed</link>
+		<description>
+			En esta pagina web hablaremos sobre las diferentes instalaciones de software que he ido realizando.
+		</description>
+		<category>Software/Ofimático</category>
+		<copyright>1º ASIR - LMSGI</copyright>
+		<image>
+			<url>https://github.com/jrommed560/Paginawebjrommed/tree/main/img</url>
+			<title>Imágenes</title>
+			<link>https://github.com/jrommed560/Paginawebjrommed</link>
+			<width>15</width>
+			<height>15</height>
+		</image>
+		<language>es-es</language>
+		<lastBuildDate>Sun, 05 Dec 2021 12:15:00 +0100</lastBuildDate>
+		<webMaster>jesusromeromedina2002@gmail.com</webMaster>
+		
+		<!-- Noticias del canal -->
+		<item>
+			<title>Antivirus</title>
+			<description>En este artículo hablaremos sobre los programas de antivirus</description>
+			<link>https://github.com/jrommed560/Paginawebjrommed/blob/main/pages/antivirus.html</link>
+			<author>romeje_aliesma20@iesmedinaazahara.es</author>
+			<category>Antivirus</category>
+			<enclosure url="https://youtu.be/VupykmeN-xM"
+				type="video" length="32572719"/>
+			<pubDate>Sun, 05 Dec 2021 12:25:00 +0100</pubDate>
+		</item>
+		<item>
+			<title>Recuperación de datos</title>
+			<description>En este artículo encontrará información sobre los software de recuperaciondatos</description>
+			<link>https://github.com/jrommed560/Paginawebjrommed/blob/main/pages/recuperaciondatos.html</link>
+			<author>romeje_aliesma20@iesmedinaazahara.es</author>
+			<category>Recuperación de datos</category>
+			<pubDate>Sun, 05 Dec 2021 12:25:00 +0100</pubDate>
+		</item>
+		<item>
+			<title>Ofimático</title>
+			<description>En este artículo encontrará información sobre los diferentes programas de Ofimático</description>
+			<link>https://github.com/jrommed560/Paginawebjrommed/blob/main/pages/ofimatico.html</link>
+			<author>romeje_aliesma20@iesmedinaazahara.es</author>
+			<category>Ofimático</category>
+			<pubDate>Sun, 05 Dec 2021 12:25:00 +0100</pubDate>
+		</item>
+		<item>
+			<title>Portable</title>
+			<description>En este artículo encontrará información sobre software portables</description>
+			<link>https://github.com/jrommed560/Paginawebjrommed/blob/main/pages/portable.html</link>
+			<author>romeje_aliesma20@iesmedinaazahara.es</author>
+			<category>Portable</category>
+			<pubDate>Sun, 05 Dec 2021 12:25:00 +0100</pubDate>
+		</item>
+	</channel>
+</rss>
